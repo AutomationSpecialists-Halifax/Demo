@@ -1,0 +1,104 @@
+{
+	"id": "a9ef56c3-1603-4af7-a959-32ad18249144",
+	"name": "Dev19 GSX-API",
+	"values": [
+		{
+			"key": "ServerUrl",
+			"value": "http://us1-airgas-c91.ec2.local:8888/gsx-api",
+			"enabled": true
+		},
+		{
+			"key": "hmeId1",
+			"value": "629",
+			"enabled": true
+		},
+		{
+			"key": "hmeId2",
+			"value": "5",
+			"enabled": true
+		},
+		{
+			"key": "hmeLocationId1",
+			"value": "2171",
+			"enabled": true
+		},
+		{
+			"key": "patientId",
+			"value": "1389470",
+			"enabled": true
+		},
+		{
+			"key": "authentication",
+			"value": "Basic UmVzbWVkdGVzdDpUaGlzaXNteXBhc3N3b3JkMQ==",
+			"enabled": true
+		},
+		{
+			"key": "integratorId",
+			"value": "d9898c7a-4ba7-4bd8-849f-e17755056e49",
+			"enabled": true
+		},
+		{
+			"key": "ResponseTime",
+			"value": "500",
+			"enabled": true
+		},
+		{
+			"key": "ApiVersion",
+			"value": "1.0",
+			"enabled": true
+		},
+		{
+			"key": "invalidAuthentication",
+			"value": "Basic dXNlcm5hbWU6cGFzc3dvcmQ=",
+			"enabled": true
+		},
+		{
+			"key": "invalidHmeNumber",
+			"value": "9999999",
+			"enabled": true
+		},
+		{
+			"key": "invalidHmeNonNumeric",
+			"value": "999XXX999",
+			"enabled": true
+		},
+		{
+			"key": "invalidPatientNumber",
+			"value": "0",
+			"enabled": true
+		},
+		{
+			"key": "invalidPatientNonNumeric",
+			"value": "111AAA111",
+			"enabled": true
+		},
+		{
+			"key": "invalidIntegratorId",
+			"value": "12345678-1234-1234-1234-123456789012",
+			"enabled": true
+		},
+		{
+			"key": "alternateIntegratorId",
+			"value": "05c8d894-8C12-4cd7-af2b-db09524287G3",
+			"enabled": true
+		},
+		{
+			"key": "alternateAuthentication",
+			"value": "Basic ZmljdGlvbmFsdGVzdDpmaWN0aW9uYWxWMDF0ZXN0Kg==",
+			"enabled": true
+		},
+		{
+			"key": "alternateHmeId",
+			"value": "3",
+			"enabled": true
+		},
+		{
+			"key": "alternatePatientId",
+			"value": "50",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-10-01T14:03:07.864Z",
+	"_postman_exported_using": "Postman/7.8.0"
+}
